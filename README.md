@@ -1,0 +1,2 @@
+# Polynomial-Regression
+Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and dependent variable y is modelled as an nth degree polynomial of x. That is, if your dataset holds the characteristic of being curved when plotted in the graph, then you should go with a polynomial regression model instead of Simple Linear or Multiple Linear regression.
